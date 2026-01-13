@@ -16,7 +16,7 @@ The system follows a multi-tier architecture isolating the frontend and backend 
 
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/701b3b3a-d921-43c5-ac7e-a1f2d151628f)
-*(Note: Upload the image from the PDF/Screenshot to your repo and link it here)*
+
 
 ### Key Components:
 * []**Frontend:** A static responsive website (HTML, CSS, JS) hosted on **Cloud Storage** for low-latency global delivery.
