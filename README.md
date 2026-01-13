@@ -55,5 +55,25 @@ The system follows a multi-tier architecture isolating the frontend and backend 
 3.  **Frontend Deployment:** Uploaded static assets to a public Cloud Storage bucket.
 4.  **Load Balancing:** Configured a Global External Load Balancer to route `/api/*` requests to the MIG and all other traffic to Cloud Storage.
 
+## Screenshots :
+<img width="705" height="590" alt="image" src="https://github.com/user-attachments/assets/c5559892-3655-461c-b6d8-e086ad29af44" />
+<img width="819" height="488" alt="image" src="https://github.com/user-attachments/assets/249c5569-cc77-4cb3-bc1d-9f27b9c4e035" />
+<img width="691" height="645" alt="image" src="https://github.com/user-attachments/assets/cbd98bb4-7705-4f19-896c-527eea7f4ec5" />
+<img width="557" height="778" alt="image" src="https://github.com/user-attachments/assets/6cfd8380-2c55-47e3-a7ff-d390d8c2fab8" />
+<img width="696" height="681" alt="image" src="https://github.com/user-attachments/assets/70e9227b-1475-425a-96c2-c0587419cd62" />
+<img width="672" height="659" alt="image" src="https://github.com/user-attachments/assets/dcff7b1a-32d0-4adb-87c1-c3c2546fe10e" />
+<img width="739" height="729" alt="image" src="https://github.com/user-attachments/assets/b48b7bdf-c412-4700-bac2-13b493d85952" />
+
+<img width="765" height="749" alt="image" src="https://github.com/user-attachments/assets/d9d38348-4af8-474d-a26e-cfa162ac8eac" />
+
+<img width="1046" height="701" alt="image" src="https://github.com/user-attachments/assets/947e1d61-1fbe-4b6b-bae9-72da73fbbebc" />
+
+
+
+
+
+
+
+
 ## 📄 License
 This project was developed as part of the Cloud Computing coursework at Albukhary International University.
