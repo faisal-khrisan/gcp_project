@@ -36,11 +36,11 @@ The system follows a multi-tier architecture isolating the frontend and backend 
 | **Storage** | Cloud Storage (GCS) |
 | **Observability** | Cloud Monitoring, Cloud Logging |
 | **Backend** | Python, Flask, Gunicorn, systemd |
-| **Frontend** | HTML5, CSS3, JavaScript, Chart.js |
+| **Frontend** | HTML5, CSS3, JavaScript |
 
 ## 🚀 Key Features
-* [cite_start]**High Availability:** Deployed across multiple zones; if one zone fails, the application remains operational.
-* **Auto-Healing:** The Load Balancer performs health checks on the `/healthz` endpoint. [cite_start]Unhealthy instances are automatically replaced.
+* **High Availability:** Deployed across multiple zones; if one zone fails, the application remains operational.
+* **Auto-Healing:** The Load Balancer performs health checks on the `/healthz` endpoint. Unhealthy instances are automatically replaced.
 * **Security:**
     * **Custom VPC:** Backend resources are isolated in a private network (`cde-net`).
     * **Firewall Rules:** Inbound traffic to the backend is restricted to the Load Balancer's IP ranges only.
